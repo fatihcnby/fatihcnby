@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Fatih CANBAY<br>Frontend Developer- React Developer<br>I'm continuing the training to become a Frontend Developer and React Developer.<br> I’m learning Html, Html5, Css, Scss, Java Script and React.<br>I have successfully completed many projects and will continue to practice my profession as a react and frontend developer<br>All of my projects are available at https://github.com/fatihcnby<br>How to reach me fatih_cnby@hotmail.com.tr<br><br>
+Hi 👋, I'm Fatih CANBAY<br>Frontend Developer- React Developer<br>I'm continuing the training to become a Frontend Developer and React Developer.<br> I’m learning Html, Html5, Css, Scss, Java Script and React.<br>I have successfully completed many projects and will continue to practice my profession as a react and frontend developer<br>All of my projects are available at https://github.com/fatihcnby<br>How to reach me fatihcnby@gmail.com.tr<br><br>
 
 
 ## 🌐 Socials:
